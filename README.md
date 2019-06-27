@@ -1,4 +1,4 @@
-#Leaders!
+# Leaders!
 
 Have you ever wondered what it takes to be a manager in technology? This repository
 will answer that question and more. It will transfer to you the management system
